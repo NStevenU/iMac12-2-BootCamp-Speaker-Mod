@@ -1,0 +1,5 @@
+
+Channel: RL RR
+Preamp: 2 dB
+Channel: L R
+Preamp: -6 dB

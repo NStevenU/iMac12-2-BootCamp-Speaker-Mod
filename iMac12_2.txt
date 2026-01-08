@@ -1,0 +1,16 @@
+# DspFunction0 (Like DspEqualization32)
+Include: DspFunction0.txt
+# DspFunction1 (Like DspGainStage)
+Preamp: -2 dB
+# 2CH Only (Rear Channel OFF)
+Include: RL RR off.txt
+# DspFunction3 (Like DspCrossover2Dot2)
+Copy: L=L R=R RL=L RR=R
+Include: DspFunction3.txt
+# DspFunction4 (Like DspEqualization32) to Tweeter
+Include: DspFunction4.txt
+# DspFunction5 (Like DspEqualization32) to Woofer
+Include: DspFunction5.txt
+# DspFunction7 (Like DspGainStage)
+# Since there's no DspAutoGainControl, I adjusted the gain to match macOS measurement values as closely as possible.
+Include: DspFunction7.txt

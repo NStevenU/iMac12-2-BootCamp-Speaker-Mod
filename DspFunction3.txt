@@ -1,0 +1,9 @@
+Channel: L R
+Filter: ON LPQ Fc 3510 Hz Q 0.707
+Filter: ON LPQ Fc 3510 Hz Q 0.707
+Filter: ON LPQ Fc 7078 Hz Q 0.707
+Channel: RL RR
+Filter: ON HPQ Fc 3510 Hz Q 0.707 Gain 0 dB
+Filter: ON HPQ Fc 3510 Hz Q 0.707 Gain 0 dB
+Filter: ON HPQ Fc 3510 Hz Q 0.707 Gain 0 dB
+Filter: ON HPQ Fc 3510 Hz Q 0.707 Gain 0 dB

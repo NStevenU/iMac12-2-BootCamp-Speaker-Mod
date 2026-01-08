@@ -1,0 +1,16 @@
+Channel: RL
+# Filter: ON PK Fc 3040 Hz Gain -4.5 dB Q 15
+Filter: ON PK Fc 3410 Hz Gain -5 dB Q 15
+Filter: ON PK Fc 3950 Hz Gain -5.5 dB Q 15
+Filter: ON PK Fc 4510 Hz Gain -2.5 dB Q 15
+Filter: ON PK Fc 3230 Hz Gain 0.5 dB Q 20
+Filter: ON PK Fc 3720 Hz Gain -0.8 dB Q 20
+# Filter: ON PK Fc 3044 Hz Gain -6 dB Q 10
+# Filter: ON PK Fc 3700 Hz Gain -4.5 dB Q 3
+Channel: RR
+Filter: ON PK Fc 4179 Hz Gain -3.5 dB Q 10
+Filter: ON PK Fc 5550 Hz Gain -0.5 dB Q 15
+Filter: ON PK Fc 9940 Hz Gain -9.5 dB Q 15
+Filter: ON PK Fc 10330 Hz Gain -2.5 dB Q 15
+Filter: ON PK Fc 2700 Hz Gain -1 dB Q 5
+Filter: ON PK Fc 4230 Hz Gain -1.5 dB Q 3
